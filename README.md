@@ -2,4 +2,4 @@
 
 > :computer: Aplicação sendo desenvolvida para a disciplina tópicos especiais em computação móvel 
 
-* Constuindo utilizando React Native + Expo
+* React Native + Expo
